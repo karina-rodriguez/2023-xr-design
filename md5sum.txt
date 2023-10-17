@@ -8,5 +8,5 @@
 "episodes/users.Rmd" "c2f638e0ace618d4dce5fd4b52738281" "site/built/users.md" "2023-10-17"
 "instructors/instructor-notes.md" "506e5ffa4572cd0d1c9bb8e2b40deb8d" "site/built/instructor-notes.md" "2023-10-17"
 "learners/reference.md" "012c8f34607e5b530c572d34acac8aea" "site/built/reference.md" "2023-10-17"
-"learners/setup.md" "feb602cf12a5379809273ac1f4307d50" "site/built/setup.md" "2023-10-17"
+"learners/setup.md" "8486e22843aa079187a7f6cc81ffd2be" "site/built/setup.md" "2023-10-17"
 "profiles/learner-profiles.md" "5fe5bf7537072422b91ed393ada03f9a" "site/built/learner-profiles.md" "2023-10-17"
